@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    
+    border: none;
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(71, 71, 255);
+    color: white;
+    cursor: pointer;
+    }
